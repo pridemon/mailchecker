@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-imap/php-imap": "~2.0",
+        "vlucas/phpdotenv": "^2.3",
+        "maknz/slack": "^1.7"
+    }
+}
